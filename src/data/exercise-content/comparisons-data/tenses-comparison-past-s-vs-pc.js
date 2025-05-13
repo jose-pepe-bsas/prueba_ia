@@ -1,0 +1,40 @@
+
+    export const tensesComparisonPastSVsPcData = {
+      level1: [
+        { id: 'comp-pastspc-l1-1', sentence: 'While I ___ (walk) home, I ___ (see) an accident.', options: ['was walking / saw', 'walked / was seeing', 'was walking / was seeing'], correct: 'was walking / saw' },
+        { id: 'comp-pastspc-l1-2', sentence: 'He ___ (fall) asleep while he ___ (watch) TV.', options: ['fell / was watching', 'was falling / watched', 'fell / watched'], correct: 'fell / was watching' },
+        { id: 'comp-pastspc-l1-3', sentence: 'When the phone ___ (ring), she ___ (cook) dinner.', options: ['rang / was cooking', 'was ringing / cooked', 'rang / cooked'], correct: 'rang / was cooking' },
+        { id: 'comp-pastspc-l1-4', sentence: 'They ___ (play) cards when the lights ___ (go) out.', options: ['were playing / went', 'played / were going', 'were playing / were going'], correct: 'were playing / went' },
+        { id: 'comp-pastspc-l1-5', sentence: 'What ___ you ___ (do) when I ___ (call) you last night?', options: ['were / doing / called', 'did / do / was calling', 'were / doing / was calling'], correct: 'were / doing / called' },
+        { id: 'comp-pastspc-l1-6', sentence: 'It ___ (rain) heavily when we ___ (leave) the house.', options: ['was raining / left', 'rained / were leaving', 'was raining / were leaving'], correct: 'was raining / left' },
+        { id: 'comp-pastspc-l1-7', sentence: 'I ___ (break) my leg while I ___ (ski).', options: ['broke / was skiing', 'was breaking / skied', 'broke / skied'], correct: 'broke / was skiing' },
+        { id: 'comp-pastspc-l1-8', sentence: 'She ___ (meet) her husband while she ___ (live) in Paris.', options: ['met / was living', 'was meeting / lived', 'met / lived'], correct: 'met / was living' },
+        { id: 'comp-pastspc-l1-9', sentence: 'The children ___ (make) a lot of noise while their parents ___ (try) to sleep.', options: ['were making / were trying', 'made / tried', 'were making / tried'], correct: 'were making / were trying' },
+        { id: 'comp-pastspc-l1-10', sentence: 'He ___ (not hear) the doorbell because he ___ (listen) to loud music.', options: ['didn\'t hear / was listening', 'wasn\'t hearing / listened', 'didn\'t hear / listened'], correct: 'didn\'t hear / was listening' },
+      ],
+      level2: [
+        { id: 'comp-pastspc-l2-1', sentence: 'The sun ___ (shine) brightly when I ___ (wake) up this morning.', options: ['was shining / woke', 'shone / was waking', 'was shining / was waking'], correct: 'was shining / woke' },
+        { id: 'comp-pastspc-l2-2', sentence: 'While the chef ___ (prepare) the main course, the waiter ___ (drop) a tray of glasses.', options: ['was preparing / dropped', 'prepared / was dropping', 'was preparing / was dropping'], correct: 'was preparing / dropped' },
+        { id: 'comp-pastspc-l2-3', sentence: 'They ___ (not notice) me when I ___ (enter) the room because they ___ (argue) loudly.', options: ['didn\'t notice / entered / were arguing', 'weren\'t noticing / entered / argued', 'didn\'t notice / was entering / were arguing'], correct: 'didn\'t notice / entered / were arguing' },
+        { id: 'comp-pastspc-l2-4', sentence: 'What ___ she ___ (wear) when you ___ (see) her at the party?', options: ['was / wearing / saw', 'did / wear / were seeing', 'was / wearing / were seeing'], correct: 'was / wearing / saw' },
+        { id: 'comp-pastspc-l2-5', sentence: 'It ___ (snow) heavily when our plane ___ (land) in Denver.', options: ['was snowing / landed', 'snowed / was landing', 'was snowing / was landing'], correct: 'was snowing / landed' },
+        { id: 'comp-pastspc-l2-6', sentence: 'I ___ (read) a book when suddenly I ___ (hear) a strange noise outside.', options: ['was reading / heard', 'read / was hearing', 'was reading / was hearing'], correct: 'was reading / heard' },
+        { id: 'comp-pastspc-l2-7', sentence: 'He ___ (not pay) attention while the teacher ___ (explain) the instructions, so he ___ (do) the exercise incorrectly.', options: ['wasn\'t paying / was explaining / did', 'didn\'t pay / explained / was doing', 'wasn\'t paying / explained / did'], correct: 'wasn\'t paying / was explaining / did' },
+        { id: 'comp-pastspc-l2-8', sentence: 'The children ___ (build) a sandcastle when a big wave ___ (come) and ___ (wash) it away.', options: ['were building / came / washed', 'built / was coming / was washing', 'were building / was coming / washed'], correct: 'were building / came / washed' },
+        { id: 'comp-pastspc-l2-9', sentence: '___ you ___ (still work) on the report when I ___ (call) you at 10 PM?', options: ['Were / still working / called', 'Did / still work / was calling', 'Were / still working / was calling'], correct: 'Were / still working / called' },
+        { id: 'comp-pastspc-l2-10', sentence: 'She ___ (try) to fix her computer when her brother ___ (offer) to help.', options: ['was trying / offered', 'tried / was offering', 'was trying / was offering'], correct: 'was trying / offered' },
+      ],
+      level3: [
+        { id: 'comp-pastspc-l3-1', sentence: 'The detective ___ (examine) the crime scene when he ___ (find) a crucial piece of evidence.', options: ['was examining / found', 'examined / was finding', 'was examining / was finding'], correct: 'was examining / found' },
+        { id: 'comp-pastspc-l3-2', sentence: 'While the band ___ (perform) their most popular song, the power suddenly ___ (go) out.', options: ['was performing / went', 'performed / was going', 'was performing / was going'], correct: 'was performing / went' },
+        { id: 'comp-pastspc-l3-3', sentence: 'He ___ (not realize) he ___ (drive) in the wrong direction until he ___ (see) a familiar landmark.', options: ['didn\'t realize / was driving / saw', 'wasn\'t realizing / drove / was seeing', 'didn\'t realize / drove / saw'], correct: 'didn\'t realize / was driving / saw' },
+        { id: 'comp-pastspc-l3-4', sentence: 'What ___ they ___ (discuss) so intently when you ___ (walk) into the meeting room?', options: ['were / discussing / walked', 'did / discuss / were walking', 'were / discussing / were walking'], correct: 'were / discussing / walked' },
+        { id: 'comp-pastspc-l3-5', sentence: 'The artist ___ (paint) a portrait when her model unexpectedly ___ (sneeze).', options: ['was painting / sneezed', 'painted / was sneezing', 'was painting / was sneezing'], correct: 'was painting / sneezed' },
+        { id: 'comp-pastspc-l3-6', sentence: 'I ___ (jog) in the park when it ___ (start) to pour with rain, so I ___ (take) shelter under a tree.', options: ['was jogging / started / took', 'jogged / was starting / was taking', 'was jogging / was starting / took'], correct: 'was jogging / started / took' },
+        { id: 'comp-pastspc-l3-7', sentence: 'She ___ (not listen) carefully while her friend ___ (give) directions, which is why she ___ (get) lost.', options: ['wasn\'t listening / was giving / got', 'didn\'t listen / gave / was getting', 'wasn\'t listening / gave / got'], correct: 'wasn\'t listening / was giving / got' },
+        { id: 'comp-pastspc-l3-8', sentence: 'The students ___ (work) quietly on their assignment when the fire alarm ___ (ring) loudly.', options: ['were working / rang', 'worked / was ringing', 'were working / was ringing'], correct: 'were working / rang' },
+        { id: 'comp-pastspc-l3-9', sentence: '___ you ___ (watch) the news when they ___ (announce) the election results?', options: ['Were / watching / announced', 'Did / watch / were announcing', 'Were / watching / were announcing'], correct: 'Were / watching / announced' },
+        { id: 'comp-pastspc-l3-10', sentence: 'He ___ (write) an email to his client when his computer ___ (crash) and he ___ (lose) all his work.', options: ['was writing / crashed / lost', 'wrote / was crashing / was losing', 'was writing / was crashing / lost'], correct: 'was writing / crashed / lost' },
+      ]
+    };
+  

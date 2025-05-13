@@ -1,0 +1,40 @@
+
+    export const tensesComparisonPsVsPcData = {
+      level1: [
+        { id: 'comp-pspc-l1-1', sentence: 'She usually ___ (read) books, but today she ___ (watch) TV.', options: ['reads / is watching', 'is reading / watches', 'reads / watches'], correct: 'reads / is watching' },
+        { id: 'comp-pspc-l1-2', sentence: 'Look! It ___ (snow). It rarely ___ (snow) here.', options: ['is snowing / snows', 'snows / is snowing', 'is snowing / is snowing'], correct: 'is snowing / snows' },
+        { id: 'comp-pspc-l1-3', sentence: 'We ___ (have) dinner now. We always ___ (have) dinner at 7 PM.', options: ['are having / have', 'have / are having', 'are having / are having'], correct: 'are having / have' },
+        { id: 'comp-pspc-l1-4', sentence: 'He ___ (work) as a teacher, but this week he ___ (be) on holiday.', options: ['works / is', 'is working / is', 'works / is being'], correct: 'works / is' },
+        { id: 'comp-pspc-l1-5', sentence: 'Why ___ you ___ (wear) a suit today? You usually ___ (wear) jeans.', options: ['are / wearing / wear', 'do / wear / are wearing', 'are / wearing / are wearing'], correct: 'are / wearing / wear' },
+        { id: 'comp-pspc-l1-6', sentence: 'The water ___ (boil). Can you turn it off? Water ___ (boil) at 100°C.', options: ['is boiling / boils', 'boils / is boiling', 'is boiling / is boiling'], correct: 'is boiling / boils' },
+        { id: 'comp-pspc-l1-7', sentence: 'I ___ (not understand) what you ___ (talk) about.', options: ['don\'t understand / are talking', 'am not understanding / talk', 'don\'t understand / talk'], correct: 'don\'t understand / are talking' },
+        { id: 'comp-pspc-l1-8', sentence: 'They normally ___ (play) tennis on Saturdays, but this Saturday they ___ (go) hiking.', options: ['play / are going', 'are playing / go', 'play / go'], correct: 'play / are going' },
+        { id: 'comp-pspc-l1-9', sentence: 'Be quiet! I ___ (try) to concentrate. I always ___ (find) it hard to concentrate with noise.', options: ['am trying / find', 'try / am finding', 'am trying / am finding'], correct: 'am trying / find' },
+        { id: 'comp-pspc-l1-10', sentence: 'What ___ your brother ___ (do)? He ___ (be) an architect.', options: ['does / do / is', 'is / doing / is', 'does / do / does'], correct: 'does / do / is' },
+      ],
+      level2: [
+        { id: 'comp-pspc-l2-1', sentence: 'Sarah usually ___ (walk) to work, but this week she ___ (take) the bus because her car is broken.', options: ['walks / is taking', 'is walking / takes', 'walks / takes'], correct: 'walks / is taking' },
+        { id: 'comp-pspc-l2-2', sentence: 'Listen! Someone ___ (play) the violin. It ___ (sound) beautiful.', options: ['is playing / sounds', 'plays / is sounding', 'is playing / is sounding'], correct: 'is playing / sounds' },
+        { id: 'comp-pspc-l2-3', sentence: 'We ___ (not usually go) to the cinema on weekdays, but tonight we ___ (make) an exception.', options: ['don\'t usually go / are making', 'aren\'t usually going / make', 'don\'t usually go / make'], correct: 'don\'t usually go / are making' },
+        { id: 'comp-pspc-l2-4', sentence: 'He ___ (study) for his exams at the moment, so he ___ (not have) much free time.', options: ['is studying / doesn\'t have', 'studies / isn\'t having', 'is studying / isn\'t having'], correct: 'is studying / doesn\'t have' },
+        { id: 'comp-pspc-l2-5', sentence: 'Why ___ you always ___ (complain) about your job? You ___ (seem) to enjoy it sometimes.', options: ['are / complaining / seem', 'do / complain / are seeming', 'are / complaining / are seeming'], correct: 'are / complaining / seem' },
+        { id: 'comp-pspc-l2-6', sentence: 'The chef ___ (taste) the soup now to see if it ___ (need) more salt.', options: ['is tasting / needs', 'tastes / is needing', 'is tasting / is needing'], correct: 'is tasting / needs' },
+        { id: 'comp-pspc-l2-7', sentence: 'I ___ (think) about my holiday plans. I ___ (want) to go somewhere warm.', options: ['am thinking / want', 'think / am wanting', 'am thinking / am wanting'], correct: 'am thinking / want' },
+        { id: 'comp-pspc-l2-8', sentence: 'They ___ (build) a new bridge over the river. It ___ (look) like it will be finished soon.', options: ['are building / looks', 'build / is looking', 'are building / is looking'], correct: 'are building / looks' },
+        { id: 'comp-pspc-l2-9', sentence: 'She ___ (not work) on Fridays. She ___ (spend) the day with her children.', options: ['doesn\'t work / spends', 'isn\'t working / is spending', 'doesn\'t work / is spending'], correct: 'doesn\'t work / spends' },
+        { id: 'comp-pspc-l2-10', sentence: 'What ___ that noise? It ___ (sound) like someone ___ (try) to open the window.', options: ['is / sounds / is trying', 'does / sound / tries', 'is / is sounding / tries'], correct: 'is / sounds / is trying' },
+      ],
+      level3: [
+        { id: 'comp-pspc-l3-1', sentence: 'The company\'s stock price ___ (fluctuate) a lot these days, but generally it ___ (show) an upward trend.', options: ['is fluctuating / shows', 'fluctuates / is showing', 'is fluctuating / is showing'], correct: 'is fluctuating / shows' },
+        { id: 'comp-pspc-l3-2', sentence: 'While my father ___ (usually enjoy) gardening, this afternoon he ___ (relax) indoors because of the heat.', options: ['usually enjoys / is relaxing', 'is usually enjoying / relaxes', 'usually enjoys / relaxes'], correct: 'usually enjoys / is relaxing' },
+        { id: 'comp-pspc-l3-3', sentence: 'It ___ (appear) that the new software ___ (cause) some compatibility issues with older systems.', options: ['appears / is causing', 'is appearing / causes', 'appears / causes'], correct: 'appears / is causing' },
+        { id: 'comp-pspc-l3-4', sentence: 'Why ___ you ___ (constantly interrupt) me while I ___ (try) to explain something important?', options: ['are / constantly interrupting / am trying', 'do / constantly interrupt / try', 'are / constantly interrupting / try'], correct: 'are / constantly interrupting / am trying' },
+        { id: 'comp-pspc-l3-5', sentence: 'The professor ___ (currently write) a new book, which ___ (explore) the impact of social media on society.', options: ['is currently writing / explores', 'currently writes / is exploring', 'is currently writing / is exploring'], correct: 'is currently writing / explores' },
+        { id: 'comp-pspc-l3-6', sentence: 'Although she ___ (own) several properties, she ___ (currently live) in a small rented apartment.', options: ['owns / is currently living', 'is owning / currently lives', 'owns / currently lives'], correct: 'owns / is currently living' },
+        { id: 'comp-pspc-l3-7', sentence: 'The children ___ (get) more and more excited as their holiday ___ (approach).', options: ['are getting / approaches', 'get / is approaching', 'are getting / is approaching'], correct: 'are getting / approaches' },
+        { id: 'comp-pspc-l3-8', sentence: 'He ___ (not usually believe) in horoscopes, but today he ___ (read) his with great interest.', options: ['doesn\'t usually believe / is reading', 'isn\'t usually believing / reads', 'doesn\'t usually believe / reads'], correct: 'doesn\'t usually believe / is reading' },
+        { id: 'comp-pspc-l3-9', sentence: 'This artist ___ (always experiment) with new techniques, which ___ (make) her work so unique.', options: ['is always experimenting / makes', 'always experiments / is making', 'is always experimenting / is making'], correct: 'is always experimenting / makes' },
+        { id: 'comp-pspc-l3-10', sentence: 'What ___ you ___ (generally do) on weekends? ___ you ___ (do) anything special this weekend?', options: ['do / generally do / Are / doing', 'are / generally doing / Do / do', 'do / generally do / Do / do'], correct: 'do / generally do / Are / doing' },
+      ]
+    };
+  
